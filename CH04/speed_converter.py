@@ -1,5 +1,5 @@
 # This program converts the speeds 60 kph
-# through 130 kpy (in 10 kph increments)
+# through 130 kph (in 10 kph increments)
 # to mph.
 
 START_SPEED = 60            # Starting speed
